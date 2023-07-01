@@ -9,7 +9,8 @@
 		"vscode": {
 			"extensions": [
 				"denoland.vscode-deno",
-				"sastan.twind-intellisense"
+				"sastan.twind-intellisense",
+				"GitHub.copilot"
 			]
 		}
 	}
